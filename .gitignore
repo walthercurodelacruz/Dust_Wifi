@@ -1,0 +1,17 @@
+# Capturas y volcados de paquetes del laboratorio
+capturas/
+*.cap
+*.csv
+*.netxml
+*.kismet.csv
+*.kismet.netxml
+*.log
+
+# Archivos temporales de escaneo
+/tmp/dust_scan_*
+
+# Archivos de sistema y editores
+.DS_Store
+*.swp
+*~
+
